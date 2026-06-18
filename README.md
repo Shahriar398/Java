@@ -91,8 +91,8 @@ java Run
 
 ## 👨‍💻 Author
 
-**Shahriar Hasan**
-**Kazi Tahmida Afroz**
+- **Shahriar Hasan**
+- **Kazi Tahmida Afroz**
 
 - GitHub: https://github.com/Shahriar398
 - GitHub: https://github.com/Tahmida70
